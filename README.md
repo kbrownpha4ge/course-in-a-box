@@ -15,3 +15,5 @@ Questions? Ask on P2PU's [Community Forum](https://community.p2pu.org/c/tech/cou
 Course-in-a-Box is built by [Peer 2 Peer University](https://www.p2pu.org) and shared under an MIT License.
 
 Course content ("Modules") are shared under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+
+:)
